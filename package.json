@@ -1,0 +1,13 @@
+{
+  "name": "ReverseRecipeAPI",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "multer": "^1.4.4",
+    "sleep-promise": "^9.1.0"
+  }
+}
